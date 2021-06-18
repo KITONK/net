@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web_E-Tickets", "Web_E-Tickets\Web_E-Tickets.csproj", "{A34C24A3-B244-4642-89EE-C2806BE8F82A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exception", "Exception\Exception.csproj", "{68D47BAA-0EE2-42D3-826B-074554675B67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34C24A3-B244-4642-89EE-C2806BE8F82A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34C24A3-B244-4642-89EE-C2806BE8F82A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34C24A3-B244-4642-89EE-C2806BE8F82A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34C24A3-B244-4642-89EE-C2806BE8F82A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D47BAA-0EE2-42D3-826B-074554675B67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D47BAA-0EE2-42D3-826B-074554675B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D47BAA-0EE2-42D3-826B-074554675B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D47BAA-0EE2-42D3-826B-074554675B67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EAEE4DF-8266-44E8-8A23-AB0970F4D649}
+	EndGlobalSection
+EndGlobal

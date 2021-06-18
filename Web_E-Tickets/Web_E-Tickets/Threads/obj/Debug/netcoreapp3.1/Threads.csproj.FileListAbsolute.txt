@@ -1,0 +1,25 @@
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.exe
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.deps.json
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.dll
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.CoreCompileInputs.cache
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.dll
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\sanch\Desktop\дот нет\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.exe
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.deps.json
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.json
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.dll
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\bin\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.dll
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.pdb
+C:\Users\Admin\Desktop\Web_E-Tickets1\Web_E-Tickets\Web_E-Tickets\Threads\obj\Debug\netcoreapp3.1\Threads.genruntimeconfig.cache

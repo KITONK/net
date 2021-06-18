@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.deps.json
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.dll
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.pdb
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.exe
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.json
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\bin\Debug\netcoreapp3.1\Exception.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Web_E-Tickets\Exception\obj\Debug\netcoreapp3.1\Exception.genruntimeconfig.cache
