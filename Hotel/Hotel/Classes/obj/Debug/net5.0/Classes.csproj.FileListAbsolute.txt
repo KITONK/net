@@ -1,0 +1,12 @@
+D:\Programming\Csharp\Hotel\Classes\bin\Debug\net5.0\Classes.deps.json
+D:\Programming\Csharp\Hotel\Classes\bin\Debug\net5.0\Classes.dll
+D:\Programming\Csharp\Hotel\Classes\bin\Debug\net5.0\ref\Classes.dll
+D:\Programming\Csharp\Hotel\Classes\bin\Debug\net5.0\Classes.pdb
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.csprojAssemblyReference.cache
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.dll
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\ref\Classes.dll
+D:\Programming\Csharp\Hotel\Classes\obj\Debug\net5.0\Classes.pdb
