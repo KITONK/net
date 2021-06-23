@@ -1,0 +1,44 @@
+﻿@model FootballDAL.Entities.Match
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Match</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="FirstTeamId" class="control-label"></label>
+                <input asp-for="FirstTeamId" class="form-control" />
+                <span asp-validation-for="FirstTeamId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SecondTeamId" class="control-label"></label>
+                <input asp-for="SecondTeamId" class="form-control" />
+                <span asp-validation-for="SecondTeamId" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateHeld" class="control-label"></label>
+                <input asp-for="DateHeld" class="form-control" />
+                <span asp-validation-for="DateHeld" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
