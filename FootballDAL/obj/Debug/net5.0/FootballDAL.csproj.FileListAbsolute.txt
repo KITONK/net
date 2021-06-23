@@ -1,0 +1,15 @@
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\FootballDAL.deps.json
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\FootballDAL.runtimeconfig.json
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\FootballDAL.runtimeconfig.dev.json
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\FootballDAL.dll
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\ref\FootballDAL.dll
+C:\Users\helen\source\repos\WebApplication\FootballDAL\bin\Debug\net5.0\FootballDAL.pdb
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.csprojAssemblyReference.cache
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.AssemblyInfoInputs.cache
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.AssemblyInfo.cs
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.csproj.CoreCompileInputs.cache
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.dll
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\ref\FootballDAL.dll
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.pdb
+C:\Users\helen\source\repos\WebApplication\FootballDAL\obj\Debug\net5.0\FootballDAL.genruntimeconfig.cache
